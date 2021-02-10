@@ -13,7 +13,7 @@ var taskFormHandler = function(event) {
         return false;
     }
 
-    //formEl.reset();
+    formEl.reset();
 
     // package up data as an object
     var taskDataObj = {
